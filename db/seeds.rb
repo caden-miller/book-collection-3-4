@@ -8,9 +8,9 @@
 #
 #
 Book.create!([
-  {title: "The Cat in the Hat", author: "Dr. Seuss"},
-  {title: "The Lightning Thief", author: "Rick Riordan"},
-  {title: "Dune", author: "Frank Herbert"},
-  {title: "Dune Messiah", author: "Frank Herbert"},
-  {title: "Children of Dune", author: "Frank Herbert"}
+  {title: "The Cat in the Hat", author: "Dr. Seuss", price: "10.99", published_date: "09-09-2024"},
+  {title: "The Lightning Thief", author: "Rick Riordan", price: "10.99", published_date: "09-09-2024"},
+  {title: "Dune", author: "Frank Herbert", price: "10.99", published_date: "09-09-2024"},
+  {title: "Dune Messiah", author: "Frank Herbert", price: "10.99", published_date: "09-09-2024"},
+  {title: "Children of Dune", author: "Frank Herbert", price: "10.99", published_date: "09-09-2024"}
 ])
